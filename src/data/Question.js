@@ -84,7 +84,7 @@ export const questionFigma = [
         question: "¿Qué es figma?",
         a: "Una herramienta de prototipado web y editor de gráficos vectorial",
         b: "Programa de diseño gráfico",
-        c: "Lenguaje de progrmación",
+        c: "Lenguaje de programación",
         correct: "Una herramienta de prototipado web",
         image:'https://res.cloudinary.com/david-b/image/upload/v1645232091/sprint2/reto-final/caracters_erups0.svg'
     },
