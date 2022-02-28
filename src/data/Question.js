@@ -126,7 +126,7 @@ export const questionUx = [
     {
         question: "¿Qué beneficios genera una buena ux?",
         a: "aumenta el uso del producto/servicio",
-        b: "aumenta los costos",
+        b: "aumenta los costos ",
         c: "aumentan las quejas de usuarios",
         correct: "aumenta el uso del producto/servicio",
         image:'https://res.cloudinary.com/david-b/image/upload/v1645233889/sprint2/reto-final/caracters_fem_vyceax.svg'
