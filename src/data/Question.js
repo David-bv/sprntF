@@ -81,26 +81,26 @@ export const questionJs = [
 
 export const questionFigma = [
     {
-        question: "En Assassins Creed, 'Nada es verdad...'",
-        a: "salvo algunas cosas",
-        b: "hasta que se hace realidad",
-        c: "aunque en realidad si",
-        correct: "todo está permitido",
+        question: "¿Qué es figma?",
+        a: "Una herramienta de prototipado web y editor de gráficos vectorial",
+        b: "Programa de diseño gráfico",
+        c: "Lenguaje de progrmación",
+        correct: "Una herramienta de prototipado web",
         image:'https://res.cloudinary.com/david-b/image/upload/v1645232091/sprint2/reto-final/caracters_erups0.svg'
     },
     {
-        question: "¿Cómo se llama el hermano de Mario Bros?",
-        a: "Luigi",
-        b: "Mario Jr",
-        c: "Tony",
-        correct: "Luigi",
+        question: "¿De qué manera esta alojada la información de Figma?",
+        a: "En la nube",
+        b: "De manera local",
+        c: "No guarda información",
+        correct: "En la nube",
         image:'https://res.cloudinary.com/david-b/image/upload/v1645232091/sprint2/reto-final/caracters_erups0.svg'
     },
     {
-        question: "¿Cómo se llama el enemigo de Sonic?",
-        a: "Dr. Malo",
-        b: "Robotech",
-        c: "Tails",
+        question: "¿Cuál es la funcionalidad de Figma?",
+        a: "Creación, prueba e implementación de diseños de interfaz o productos",
+        b: "Editar de páginas web",
+        c: "Corregir código de css",
         correct: "Dr. Robotnik",
         image:'https://res.cloudinary.com/david-b/image/upload/v1645232091/sprint2/reto-final/caracters_erups0.svg'
     }
@@ -108,27 +108,27 @@ export const questionFigma = [
 
 export const questionUx = [
     {
-        question: "En Assassins Creed, 'Nada es verdad...'",
-        a: "salvo algunas cosas",
-        b: "hasta que se hace realidad",
-        c: "aunque en realidad si",
-        correct: "todo está permitido",
+        question: "¿Que busca el diseño UX?",
+        a: "Crear/diseñar/rediseñar productos digitales",
+        b: "Diseñar tipografías para aplicaciones",
+        c: "Diseño de menús",
+        correct: "Crear/diseñar/rediseñar productos digitales",
         image:'https://res.cloudinary.com/david-b/image/upload/v1645233889/sprint2/reto-final/caracters_fem_vyceax.svg'
     },
     {
-        question: "¿Cómo se llama el hermano de Mario Bros?",
-        a: "Luigi",
-        b: "Mario Jr",
-        c: "Tony",
-        correct: "Luigi",
+        question: "¿Qué debe tener una buena ux?",
+        a: "tonos suaves",
+        b: "útil, navegable y accesible",
+        c: "pocas imágenes",
+        correct: "útil, navegable y accesible",
         image:'https://res.cloudinary.com/david-b/image/upload/v1645233889/sprint2/reto-final/caracters_fem_vyceax.svg'
     },
     {
-        question: "¿Cómo se llama el enemigo de Sonic?",
-        a: "Dr. Malo",
-        b: "Robotech",
-        c: "Tails",
-        correct: "Dr. Robotnik",
+        question: "¿Qué beneficios genera una buena ux?",
+        a: "aumenta el uso del producto/servicio",
+        b: "aumenta los costos",
+        c: "aumentan las quejas de usuarios",
+        correct: "aumenta el uso del producto/servicio",
         image:'https://res.cloudinary.com/david-b/image/upload/v1645233889/sprint2/reto-final/caracters_fem_vyceax.svg'
     }
 ]
